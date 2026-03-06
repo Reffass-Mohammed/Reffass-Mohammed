@@ -49,9 +49,17 @@
 
 ## 📊 GitHub Stats  
 
-![Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reffass-Mohammed&show_icons=true&theme=tokyonight)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reffass-Mohammed&layout=compact&theme=tokyonight)  
+<p align="center">
+  <img src="profile-summary-cards/0-profile-details.svg" alt="Profile Details" />
+</p>
+<p align="center">
+  <img src="profile-summary-cards/1-repos-per-language.svg" alt="Repos Per Language" width="49%" />
+  <img src="profile-summary-cards/2-most-commit-language.svg" alt="Most Commits Language" width="49%" />
+</p>
+<p align="center">
+  <img src="profile-summary-cards/3-stats.svg" alt="Stats" width="49%" />
+  <img src="profile-summary-cards/4-productive-time.svg" alt="Productive Time" width="49%" />
+</p>
 
 ---
 
