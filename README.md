@@ -49,17 +49,25 @@
 
 ## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="profile-summary-card-output/github/0-profile-details.svg" alt="Profile Details" />
-</p>
-<p align="center">
-  <img src="profile-summary-card-output/github/1-repos-per-language.svg" alt="Repos Per Language" width="49%" />
-  <img src="profile-summary-card-output/github/2-most-commit-language.svg" alt="Most Commits Language" width="49%" />
-</p>
-<p align="center">
-  <img src="profile-summary-card-output/github/3-stats.svg" alt="Stats" width="49%" />
-  <img src="profile-summary-card-output/github/4-productive-time.svg" alt="Productive Time" width="49%" />
-</p>
+## 📊 GitHub Stats  
+
+<div align="center">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Reffass-Mohammed&show_icons=true&theme=tokyonight&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Reffass-Mohammed&show_icons=true&theme=default&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=Reffass-Mohammed&show_icons=true&theme=default" alt="Mohammed's GitHub Stats" />
+  </picture>
+
+  <br><br>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Reffass-Mohammed&layout=compact&theme=tokyonight&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Reffass-Mohammed&layout=compact&theme=default&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reffass-Mohammed&layout=compact" alt="Top Languages" />
+  </picture>
+
+</div>
 
 ---
 
