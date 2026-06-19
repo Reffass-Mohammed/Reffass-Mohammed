@@ -47,13 +47,12 @@
 
 ---
 
-## 📊 GitHub Stats  
 
 ## 📊 GitHub Stats  
 
 <div align="center">
 
-picture>
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github-dark/0-profile-details.svg">
     <source media="(prefers-color-scheme: light)" srcset="profile-summary-card-output/default/0-profile-details.svg">
     <img src="profile-summary-card-output/default/0-profile-details.svg" alt="Profile Details" />
