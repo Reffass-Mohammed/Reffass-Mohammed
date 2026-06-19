@@ -50,41 +50,17 @@
 
 ## 📊 GitHub Stats  
 
-<div align="center">
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github-dark/0-profile-details.svg">
-    <source media="(prefers-color-scheme: light)" srcset="profile-summary-card-output/default/0-profile-details.svg">
-    <img src="profile-summary-card-output/default/0-profile-details.svg" alt="Profile Details" />
-  </picture>
-
-  <br><br>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github-dark/1-repos-per-language.svg">
-    <source media="(prefers-color-scheme: light)" srcset="profile-summary-card-output/default/1-repos-per-language.svg">
-    <img src="profile-summary-card-output/default/1-repos-per-language.svg" alt="Repos Per Language" width="49%" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github-dark/2-most-commit-language.svg">
-    <source media="(prefers-color-scheme: light)" srcset="profile-summary-card-output/default/2-most-commit-language.svg">
-    <img src="profile-summary-card-output/default/2-most-commit-language.svg" alt="Most Commits Language" width="49%" />
-  </picture>
-
-  <br><br>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github-dark/3-stats.svg">
-    <source media="(prefers-color-scheme: light)" srcset="profile-summary-card-output/default/3-stats.svg">
-    <img src="profile-summary-card-output/default/3-stats.svg" alt="Stats" width="49%" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github-dark/4-productive-time.svg">
-    <source media="(prefers-color-scheme: light)" srcset="profile-summary-card-output/default/4-productive-time.svg">
-    <img src="profile-summary-card-output/default/4-productive-time.svg" alt="Productive Time" width="49%" />
-  </picture>
-
-</div>
+<p align="center">
+  <img src="profile-summary-card-output/discord_old_blurple/0-profile-details.svg" alt="Profile Details" />
+</p>
+<p align="center">
+  <img src="profile-summary-card-output/discord_old_blurple/1-repos-per-language.svg" alt="Repos Per Language" width="49%" />
+  <img src="profile-summary-card-output/discord_old_blurple/2-most-commit-language.svg" alt="Most Commits Language" width="49%" />
+</p>
+<p align="center">
+  <img src="profile-summary-card-output/discord_old_blurple/3-stats.svg" alt="Stats" width="49%" />
+  <img src="profile-summary-card-output/discord_old_blurple/4-productive-time.svg" alt="Productive Time" width="49%" />
+</p>
 
 ---
 
